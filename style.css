@@ -43,6 +43,10 @@ h2 {
     transition: background-color 0.2s ease;
 }
 
+.red{
+    background-color: red;
+}
+
 /* FLASH EFFECT */
 .flash {
     background-color: #b7ff00;
@@ -90,3 +94,4 @@ h2 {
         width: 110px;
     }
 }
+
