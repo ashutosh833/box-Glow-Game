@@ -1,4 +1,3 @@
-
 * {
     box-sizing: border-box;
 }
@@ -31,6 +30,10 @@ h2 {
 
 }
 
+.red{
+    background-color: red;
+}
+
 /* GAME BOX */
 .innerBox {
     aspect-ratio: 1 / 1;
@@ -43,14 +46,13 @@ h2 {
     transition: background-color 0.2s ease;
 }
 
-.red{
-    background-color: red;
-}
-
 /* FLASH EFFECT */
-.flash {
-    background-color: #b7ff00;
+.btn:active{
+    background: #e2cccc;
 }
+.flash{
+    background: #b7ff00;
+} 
 
 /* BUTTON */
 .btn {
@@ -94,4 +96,3 @@ h2 {
         width: 110px;
     }
 }
-
