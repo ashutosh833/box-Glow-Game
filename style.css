@@ -73,16 +73,10 @@ h2 {
 }
 
 /* TABLET */
-@media (max-width: 768px) {
-    .box {
-       display: flex;
-       flex-wrap: wrap;
-       justify-content: space-around;
-    }
-}
+
 
 /* MOBILE — ALL BOXES VISIBLE */
-@media (max-width: 580px) {
+@media (max-width: 800px) {
 
     .innerBox {
         width: 100px;
@@ -96,4 +90,5 @@ h2 {
         width: 110px;
     }
 }
+
 
