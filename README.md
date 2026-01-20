@@ -1,2 +1,2 @@
-# box-Glow-Game
+# Box-Glow-Game
 using HTML,CSS and JS
