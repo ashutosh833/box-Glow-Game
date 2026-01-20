@@ -82,7 +82,7 @@ h2 {
 }
 
 /* MOBILE — ALL BOXES VISIBLE */
-@media (max-width: 480px) {
+@media (max-width: 580px) {
 
     .innerBox {
         width: 100px;
@@ -96,3 +96,4 @@ h2 {
         width: 110px;
     }
 }
+
