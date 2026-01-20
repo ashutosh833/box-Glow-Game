@@ -76,11 +76,11 @@ h2 {
 
 
 /* MOBILE — ALL BOXES VISIBLE */
-@media (max-width: 800px) {
+@media (max-width:980px) {
 
     .innerBox {
-        width: 100px;
-        height: 100px;
+        width: 150px;
+        height: 150px;
         border-radius: 4px;
     }
 
@@ -90,5 +90,14 @@ h2 {
         width: 110px;
     }
 }
+@media(max-width:600px) {
+        .innerBox {
+        width: 100px;
+        height: 100px;
+        border-radius: 4px;
+    }
+}
+}
+
 
 
